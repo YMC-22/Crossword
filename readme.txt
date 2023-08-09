@@ -1,12 +1,12 @@
 ===  YMC Crossword ===
 Plugin Name: YMC Crossword
 Contributors: YMC
-Version: 1.1.1
+Version: 1.2.1
 Donate link: https://github.com/YMC-22/Crossword
 Tags: crossword, game, mind, puzzles
 Requires at least: 4.8
-Tested up to: 6.2
-Stable tag: 1.1.1
+Tested up to: 6.3
+Stable tag: 1.2.1
 Requires PHP: 7.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
