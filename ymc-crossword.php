@@ -4,7 +4,7 @@
  *
  * Plugin Name:       YMC Crossword
  * Description:       The plugin Crossword creates an easy crossword from the words of any combination.
- * Version:           1.2.1
+ * Version:           1.2.2
  * Author:            YMC Cor
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
@@ -35,7 +35,7 @@ if ( ! defined( 'ABSPATH' ) ) {
  * -------------------------------------------------------------------------------*/
 
 if ( ! defined('YMC_CROSSWORD_VERSION') ) {
-	   define( 'YMC_CROSSWORD_VERSION', '1.2.1' );
+	   define( 'YMC_CROSSWORD_VERSION', '1.2.2' );
 }
 
 if ( ! defined('YMC_CROSSWORD_DIR') ) {
