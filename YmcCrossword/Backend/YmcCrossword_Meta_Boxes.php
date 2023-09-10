@@ -467,6 +467,9 @@ class YmcCrossword_Meta_Boxes {
 			 A crossword puzzle is a form of a square or a rectangular grid of squares. The goal of the game is to fill 
 			 in the white squares with letters to form words or phrases by solving clues that lead to answers.','ymc-crossword');
 			?>
+			<hr/>
+			<strong style="color: #000; font-weight: 700; line-height: 1.2; font-size: 16px; background: #098ab821; display: block; padding: 7px 5px;">
+				Did you like or find our plugin helpful? To support the plugin, you can make a <a target="_blank" href="https://www.paypal.com/donate/?hosted_button_id=B2MHM5LM29UGW">Donation</a></strong>.
 		</article>
 	<?php }
 

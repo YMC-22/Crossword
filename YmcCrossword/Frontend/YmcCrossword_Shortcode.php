@@ -126,10 +126,10 @@ class YmcCrossword_Shortcode {
                 <?php esc_html_e('Score:', 'ymc-crossword')?>
                 <span class="ymc-scoreNum">0</span></div>
             <div class="ymc-bl ymc-actions">
-                <input class="ymc-button ymc-button-reload" type="button" title="Reload Crossword">
-                <input class="ymc-button ymc-button-reset" type="button" title="Reset Timer">
-                <input class="ymc-button ymc-button-start" type="button" title="Start Timer">
-                <input class="ymc-button ymc-button-pause" type="button" title="Pause Timer">
+                <input class="ymc-button ymc-button-reload" type="button" title="<?php esc_html_e('Reload Crossword','ymc-crossword'); ?>">
+                <input class="ymc-button ymc-button-reset" type="button" title="<?php esc_html_e('Reset Timer','ymc-crossword'); ?>">
+                <input class="ymc-button ymc-button-start" type="button" title="<?php esc_html_e('Start Timer','ymc-crossword'); ?>">
+                <input class="ymc-button ymc-button-pause" type="button" title="<?php esc_html_e('Pause Timer','ymc-crossword'); ?>">
             </div>
             <div class="ymc-bl ymc-timer">
                 <span class="ymc-min">00</span> : <span class="ymc-sec">00</span>
