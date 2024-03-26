@@ -1,17 +1,17 @@
 ===  YMC Crossword ===
 Plugin Name: YMC Crossword
 Contributors: YMC
-Version: 2.1
+Version: 2.3
 Donate link: https://github.com/YMC-22/Crossword
 Tags: crossword, game, mind, puzzles
 Requires at least: 4.8
-Tested up to: 6.4
-Stable tag: 2.1
+Tested up to: 6.5
+Stable tag: 2.3
 Requires PHP: 7.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Crossword is a game that consists in guessing words according to definitions. A crossword puzzle is a form of a square or a rectangular grid of squares. The goal of the game is to fill in the white squares with letters to form words or phrases by solving clues that lead to answers.
+The plugin Crossword creates an easy crossword from the words of any combination.
 
 == Description ==
 
